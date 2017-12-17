@@ -10,7 +10,7 @@ This application was developed using [ExpressJS](http://expressjs.com/). MongoDB
 
 ### Installation
 * Start up your terminal (or Command Prompt on Windows OS).
-* Ensure that you've `node` and `docker` installed on your PC.
+* Ensure that you've `node` and `docker` installed on your PC. Also ensure that the port `3000` is free.
 * Clone the repository by entering the command `git clone https://github.com/andela-angene/UserManager.git` in the terminal.
 * Navigate to the project folder using `cd UserManager` on your terminal (or command prompt)
 * Run `make run` to start the application.
